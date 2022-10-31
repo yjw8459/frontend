@@ -1,0 +1,14 @@
+{
+  "name": "Frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/cli": "^5.0.8",
+    "lerna": "^6.0.1"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.4.1",
+    "typescript": "^4.8.4"
+  }
+}
